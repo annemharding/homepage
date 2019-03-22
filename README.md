@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Anne Harding
 
 You can use the [editor on GitHub](https://github.com/annemharding/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
