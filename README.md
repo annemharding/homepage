@@ -3,6 +3,7 @@
 ### About Me
 
 MSc in River Basin Dynamics and Management with GIS at the University of Leeds (part-time).
+
 Assistant Environmental Scientist with Atkins' Water Management Consultancy.
 
 ### Research Interests
