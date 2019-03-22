@@ -1,10 +1,9 @@
 ## Anne Harding
 
-testtesttest
+### About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MSc in River Basin Dynamics and Management with GIS at the University of Leeds (part-time).
+Assistant Environmental Scientist with Atkins' Water Management Consultancy.
 
 ```markdown
 Syntax highlighted code block
